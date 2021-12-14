@@ -1,0 +1,1 @@
+Latte,3.70,4.45,5.00Americano,2.95,3.50,4.10Cappuccino,3.70,4.55,5.00Caramel Macchiato,3.75,4.50,5.00Mocha,4.50,5.40,6.00
